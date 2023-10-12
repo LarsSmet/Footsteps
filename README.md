@@ -13,6 +13,7 @@ The abilities allow you to solve the level in multiple ways. You have limited us
 The enemies have a vision cone that you have to dodge. Once you get seen by one, you die and go back to your previous checkpoint. Some of the enemies move, while others are stationary.
 ## Teleport
 Your first ability is the teleport ability. It is a projectile that you shoot and once it reaches the end of its lifetime, the player gets teleported to that position. If it hits a wall, the teleport gets cancelled. The enemies can't see this ability, so it is the perfect way to dodge the enemies, by teleporting to the other side of their vision cone. 
+
 ![Teleport](https://github.com/LarsSmet/Footsteps/assets/97398099/d6025493-2b69-44db-b70b-4b0b3e1f8fef)
 
 ## Footsteps
