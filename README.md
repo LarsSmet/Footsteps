@@ -18,6 +18,8 @@ Your first ability is the teleport ability. It is a projectile that you shoot an
 
 ## Footsteps
 The footsteps ability is your second ability. If it hits an enemy vision cone, the enemy will start to follow the footsteps. The footsteps continue infinitely, they only get destroyed once they hit something. When the footsteps are destroyed, the enemies that followed them will now start to patrol between that point and the enemy start point. If they were already patrolling, the point gets added to the patrol path of the enemy. The player can redirect this ability to the left or to the right once. 
+
+
 ![footsteps](https://github.com/LarsSmet/Footsteps/assets/97398099/c3d4bbb0-78c7-458a-84fd-c517e948f7cb)
 
 # Evolution
