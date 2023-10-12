@@ -3,7 +3,7 @@ You're a wizard, stuck in a prison full of guards, you have to escape without be
 
 This was an assignment for the course Game Design 1 at DAE. We got 2 keywords that we had to brainstorm around. It was also the first time that I worked in Unreal and the first time that I had to create my own game idea from scratch. I had a lot of fun and this definitely motivated me to get more into game design. 
 
-Demo level video: [Gameplay video](https://www.youtube.com/embed/7Ic58PV7AJ4?si=bqexPUTc56HjoNwd) 
+[Gameplay video](https://www.youtube.com/embed/7Ic58PV7AJ4?si=bqexPUTc56HjoNwd) of the demo level.
 
 # Goal
 It was my goal to combine the stealth and puzzle genre to create a unique game experience that would spark the player their creativity. I wanted to make a game that could have multiple levels with multiple solutions.
