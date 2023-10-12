@@ -7,7 +7,7 @@ This was an assignment for the course Game Design 1 at DAE. We got 2 keywords th
 It was my goal to combine the stealth and puzzle genre to create a unique game experience that would spark the player their creativity. I wanted to make a game that could have multiple levels with multiple solutions.
 
 # Gameplay and mechanics
-You have limited usages of each ability.
+The abilities allow you to solve the level in multiple ways. You have limited usages of each ability, so you need to make sure that you don't waste any!
 # Enemies
 The enemies have a vision cone that you have to dodge. Once you get seen by one, you die and go back to your previous checkpoint. Some of the enemies move, while others are stationary.
 ## Teleport
