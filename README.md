@@ -3,6 +3,7 @@ You're a wizard, stuck in a prison full of guards, you have to escape without be
 
 This was an assignment for the course Game Design 1 at DAE. We got 2 keywords that we had to brainstorm around. It was also the first time that I worked in Unreal and the first time that I had to create my own game idea from scratch. I had a lot of fun and this definitely motivated me to get more into game design. 
 
+[Gameplay video](https://www.youtube.com/embed/7Ic58PV7AJ4?si=bqexPUTc56HjoNwd)
 # Goal
 It was my goal to combine the stealth and puzzle genre to create a unique game experience that would spark the player their creativity. I wanted to make a game that could have multiple levels with multiple solutions.
 
@@ -16,7 +17,8 @@ Your first ability is the teleport ability. It is a projectile that you shoot an
 The footsteps ability is your second ability. If it hits an enemy vision cone, the enemy will start to follow the footsteps. The footsteps continue infinitely, they only get destroyed once they hit something. When the footsteps are destroyed, the enemies that followed them will now start to patrol between that point and the enemy start point. If they were already patrolling, the point gets added to the patrol path of the enemy. The player can redirect this ability to the left or to the right once. 
 # Evolution
 Playtesting and listening to feedback was a fairly important part of the course. We had to make an evolution video, which you can find here:
+[Evolution video](https://www.youtube.com/embed/IpugHuEYoWE?si=XTMpmQf6EToPdGKD)
 # Improvements and what's next
 I don't think I'll revisit this project any time soon. But if I had to remake it today, there are definitely some things that I would change. The first thing that I would change is the teleport, in the game you can't see the range. While the fixed range is definitely a part of the puzzle, it is pretty annoying that the player can't see how far the teleport would go. Currently, they have to remember the range and hope they calculated the distance correctly. So I would add a visual that shows the range, to make it a lot more player-friendly.
 
-Another big part that I would change is the level design. It just isn't that great and I didn't put a lot of thought behind it, whilst it is actually super important for the game. But mistakes are bound to happen in early projects, I learned a lot from it.
+Another big part that I would change is the level design. It isn't that great and I didn't put a lot of thought behind it at the time, whilst it is actually super important for the game. But mistakes are bound to happen in early projects, I learned a lot from it.
